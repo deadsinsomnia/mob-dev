@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEADS\\source\\repos\\TODO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08443531-1E34-4DDF-BF9C-75F10A01929F}|TODO\\TODO.csproj|c:\\users\\deads\\source\\repos\\todo\\todo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08443531-1E34-4DDF-BF9C-75F10A01929F}|TODO\\TODO.csproj|solutionrelative:todo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08443531-1E34-4DDF-BF9C-75F10A01929F}|TODO\\TODO.csproj|c:\\users\\deads\\source\\repos\\todo\\todo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08443531-1E34-4DDF-BF9C-75F10A01929F}|TODO\\TODO.csproj|solutionrelative:todo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08443531-1E34-4DDF-BF9C-75F10A01929F}|TODO\\TODO.csproj|c:\\users\\deads\\source\\repos\\todo\\todo\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08443531-1E34-4DDF-BF9C-75F10A01929F}|TODO\\TODO.csproj|solutionrelative:todo\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\DEADS\\source\\repos\\TODO\\TODO\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TODO\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\DEADS\\source\\repos\\TODO\\TODO\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TODO\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:30:33.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DEADS\\source\\repos\\TODO\\TODO\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TODO\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DEADS\\source\\repos\\TODO\\TODO\\MainPage.xaml.cs",
+              "RelativeToolTip": "TODO\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:21:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DEADS\\source\\repos\\TODO\\TODO\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TODO\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\DEADS\\source\\repos\\TODO\\TODO\\MainPage.xaml",
+              "RelativeToolTip": "TODO\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T16:21:17.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
